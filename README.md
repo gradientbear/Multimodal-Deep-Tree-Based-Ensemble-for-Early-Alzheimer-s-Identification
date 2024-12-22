@@ -1,4 +1,4 @@
-# [https://doi.org/10.1007/978-3-031-21595-7_3]A Novel Diagnostic Model for Early Detection of Alzheimer’s Disease Based on Clinical and Neuroimaging Features
+# (https://doi.org/10.1007/978-3-031-21595-7_3) A Novel Diagnostic Model for Early Detection of Alzheimer’s Disease Based on Clinical and Neuroimaging Features
 
 ---
 
