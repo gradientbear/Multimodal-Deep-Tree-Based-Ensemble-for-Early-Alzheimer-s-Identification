@@ -27,11 +27,6 @@ The repository includes the following files:
 - **`models.py`**: Contains configurations for different models and classifiers used in the study.
 - **`plot.py`**: Utility functions for visualizing results, including feature distributions and performance metrics.
 
-### Other Files:
-- **`requirements.txt`**: List of required Python packages and dependencies.
-- **`README.md`**: Documentation of the project (this file).
-- **`LICENSE`**: License for the project.
-
 ---
 
 ## Results
